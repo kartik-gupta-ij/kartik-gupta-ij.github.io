@@ -440,7 +440,7 @@ img {
   max-height: 100px;
 }
 .hero-boxlo {
-  margin-top: -150px;
+  margin-top: -70px;
 }
 .hero-img {
   display: flex;
@@ -495,7 +495,7 @@ img {
   min-height: 600px;
 }
 .hero-box h1 {
-  margin: 30px 0 10px 0;
+  /* margin: 30px 0 10px 0; */
   font-size: 64px;
   font-family: Lato, sans-serif;
   color: #111;
