@@ -263,7 +263,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: calc(100vh - 500px);
+  height: calc(100vh - 280px);
   width: 100%;
   padding: 0;
   padding-top: 15px;
