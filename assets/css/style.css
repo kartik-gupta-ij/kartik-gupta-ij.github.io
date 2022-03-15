@@ -245,13 +245,14 @@ img {
   display: block;
   max-width: 190px;
   border-radius: 20px;
-  /* box-shadow: 0 0 10px rgb(0 0 0 / 85%); */
+  box-shadow: 0 0 10px rgb(0 0 0 / 85%);
 }
 #header .profile div img {
   display: inline-block;
   margin: 10px auto 10px auto;
   vertical-align: middle;
   max-width: 60px;
+  box-shadow: none;
 }
 #header .profile div {
   border-bottom: 1px solid #fa5b0f;
