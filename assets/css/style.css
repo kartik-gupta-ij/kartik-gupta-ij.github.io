@@ -439,6 +439,9 @@ img {
 .hero-logo {
   max-height: 100px;
 }
+.hero-boxlo {
+  margin-top: -100px;
+}
 .hero-img {
   display: flex;
   justify-content: center;
