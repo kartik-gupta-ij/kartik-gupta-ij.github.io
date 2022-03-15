@@ -13,13 +13,10 @@ $(document).ready(function () {
       }, 2e3)),
     $(".typed").typed({
       strings: [
-        "1: Define Your Project.",
-        "2: Plan Your Website.",
-        "3: Design Your Website.",
-        "4: Create Content.",
-        "5: Develop Your Website.",
-        "6: Test Your Website.",
-        "7: Maintain Your Website.",
+        "are specialized.",
+        "focus on results.",
+        "are responsive.",
+        "go the extra mile.",
       ],
       stringsElement: null,
       typeSpeed: 20,

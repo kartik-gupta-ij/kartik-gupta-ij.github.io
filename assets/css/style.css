@@ -429,7 +429,7 @@ img {
   background: center;
   min-height: 140px;
   max-height: 250px;
-  overflow: hidden;
+
   border-radius: 20px;
   box-shadow: 0 0 20px rgb(0 0 0 / 60%);
 }
@@ -440,7 +440,7 @@ img {
   margin: 40px auto;
   background: center;
   /* min-height: 600px; */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .glitch-img-warp {
   position: relative;
