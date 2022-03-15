@@ -427,7 +427,8 @@ img {
   max-width: 1000px;
   margin: 40px auto;
   background: center;
-  min-height: 600px;
+  min-height: 140px;
+  max-height: 250px;
   overflow: hidden;
   border-radius: 20px;
   box-shadow: 0 0 20px rgb(0 0 0 / 60%);
@@ -438,7 +439,7 @@ img {
   align-items: center;
   margin: 40px auto;
   background: center;
-  min-height: 600px;
+  /* min-height: 600px; */
   overflow: hidden;
 }
 .glitch-img-warp {
