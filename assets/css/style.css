@@ -431,7 +431,10 @@ img {
   max-height: 250px;
 
   border-radius: 20px;
-  box-shadow: 0 0 20px rgb(0 0 0 / 60%);
+  /* box-shadow: 0 0 20px rgb(0 0 0 / 60%); */
+}
+.hero-im {
+  max-width: none;
 }
 .hero-img {
   display: flex;
