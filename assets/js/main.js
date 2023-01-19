@@ -31,8 +31,7 @@ $(document).ready(function () {
       preStringTyped: function () {},
       onStringTyped: function () {},
       resetCallback: function () {},
-    }),
-    new WOW().init();
+    })
 }),
   (function () {
     "use strict";

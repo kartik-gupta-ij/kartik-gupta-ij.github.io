@@ -21,6 +21,14 @@ h6 {
   font-family: Lato, sans-serif;
   color: #111;
 }
+.container1{
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+}
 .container {
   background-color: #fff;
   padding: 30px;
@@ -405,11 +413,11 @@ img {
 .navbar-mobile .getstarted:focus {
   margin: 15px;
 }
-#main {
+/* #main {
   width: calc(100% - 310px);
   margin-left: 285px;
-}
-#hero .container {
+} */
+#hero .container1 {
   /* height: 100vh; */
   display: flex;
   justify-content: center;
@@ -743,7 +751,7 @@ section {
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
-  color: #fff;
+  color: #111;
   margin: 20px 0;
 }
 .resume .resume-item {
@@ -842,7 +850,7 @@ section {
 }
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  /* background: url("../img/testimonials-bg.jpg") no-repeat; */
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1304,7 +1312,7 @@ section {
   padding: 0 0 15px 0;
   position: relative;
 }
-#footer .container {
+#footer .container1 {
   position: relative;
 }
 #footer h3 {
